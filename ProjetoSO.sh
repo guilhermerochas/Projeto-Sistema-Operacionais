@@ -1,7 +1,7 @@
 #!/bin/bash
 #Projeto de Sistemas de Informação
 #Materia: Sistemas Operacionais
-#Guilherme Sacramento Rocha - RA: 171325
+#Guilherme Sacramento Rocha
 
 Renomear()
 {
